@@ -1,21 +1,22 @@
 # 👋 Hi, I’m Ketan K
 
-🎥 **Senior WebRTC Engineer** | ⚡ **Real-Time Systems Specialist** | 🌍 **Remote-First Engineer**
+🎥 **Senior Robustness Engineer (Real-Time Systems)** | ⚡ **WebRTC Specialist** | 🌍 **Remote-First Engineer**
 
-I build **robust, enterprise-grade WebRTC applications** with deep experience in **Virtual Background (VBG) integration**, media performance optimization, and delivering **high-quality, resilient real-time communication systems** at scale.
+I focus on making **real-time systems reliable in the real world** — where networks drop, devices change, tabs sleep, and users expect things to “just work”.  
+While I specialize in **WebRTC**, my robustness work is **not limited to WebRTC** and extends to broader real-time and distributed client systems.
 
 ---
 
 ## 🚀 What I Specialize In
 
+- 🛡️ Robustness & reliability engineering for real-time systems
 - 📹 WebRTC audio/video pipelines (P2P & SFU-based architectures)
-- 🎭 **Virtual Background (VBG) integration & optimization**
-- 🛠️ Advanced WebRTC debugging & issue isolation
-- 📊 Media quality optimization (latency, jitter, packet loss)
-- 🔄 Reliable reconnection & recovery strategies
-- 🎙️ Device management (mic/camera switching, permissions, fallbacks)
-- 📡 Signaling, sockets & real-time data channels
-- 🌐 Cross-browser & cross-device compatibility
+- 🛠️ Advanced debugging & failure isolation
+- 📊 Performance & quality monitoring (latency, jitter, packet loss)
+- 🔄 Reconnection, retry & recovery strategies
+- 🎙️ Device lifecycle management (permissions, hot-switching, fallbacks)
+- 📡 Signaling resilience & real-time state synchronization
+- 🌐 Cross-browser & cross-device stability
 
 ---
 
@@ -38,55 +39,36 @@ I build **robust, enterprise-grade WebRTC applications** with deep experience in
 
 ---
 
-## 🎭 Virtual Background (VBG) Expertise
+## 🔍 Robustness, Debugging & Observability
 
-Hands-on experience designing and optimizing **real-time virtual background features**, including:
+I work on **preventing, detecting, and recovering from failures** across real-time systems:
 
-- 🧠 Background segmentation & compositing in real time
-- ⚡ Performance tuning to minimize CPU/GPU impact
-- 🎥 Maintaining video quality under VBG processing
-- 🔄 Smooth enable/disable & fallback strategies
-- 🌐 Cross-browser and Electron compatibility
-- 📉 Adapting quality based on device capability
-
----
-
-## 🔍 WebRTC Quality, Debugging & Observability
-
-I focus on making WebRTC systems **observable, debuggable, and production-resilient**:
-
-- 🔍 Debugging using `getStats()`, WebRTC Internals & structured logs
-- 📈 Media metrics (RTT, bitrate, packet loss, frame drops)
-- ⚙️ Adaptive bitrate & quality control
-- 🚨 Detection and recovery from frozen streams & device failures
-- 🔄 Seamless reconnections with minimal user disruption
+- 🔍 Deep debugging using metrics, logs & reproduction
+- 📈 Monitoring freezes, black video, audio drops & state desync
+- ⚙️ Adaptive quality & backpressure handling
+- 🚨 Detecting stalled pipelines and resource exhaustion
+- 🔄 Seamless reconnections across network, device & lifecycle changes
+- 🧪 Reproducing failures across browsers, OSs & network conditions
 
 ---
 
-## 🔥 Current Focus
+## 🧩 Selected Work & Impact
 
-Building **enterprise-grade real-time platforms**, emphasizing:
-
-- 📡 Multi-party conferencing
-- 🎥 Consistent media quality under unstable networks
-- 🎭 High-performance virtual backgrounds
-- 🎙️ Reliable device handling in browsers & Electron
-- 📊 Metrics-driven performance and quality improvements
+- 🛡️ Improved reliability of real-time communication platforms
+- 📉 Reduced user-visible freezes and drops via metrics-driven fixes
+- 🔄 Designed reconnection and recovery flows for unstable networks
+- 🎙️ Increased device switching reliability across browser & Electron
+- 📊 Built observability pipelines to surface hidden client-side failures
+- 🔌 Applied robustness patterns beyond WebRTC to other real-time features
 
 ---
 
 ## 🌍 How I Work
 
 - 🧑‍💻 Fully remote & async-friendly
-- 🤝 Own features end-to-end
-- 🔄 Comfortable across browser, backend, and Electron apps
-- 🚀 Quick to ramp up in new domains and systems
-
----
-
-## 📊 GitHub Stats
-
-![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ketan-K&show_icons=true&theme=radical)
+- 🤝 Own reliability end-to-end, from detection to fix
+- 🔄 Comfortable across browser, Node.js & Electron environments
+- 🚀 Calm, systematic, and data-driven when systems break
 
 ---
 
@@ -97,4 +79,4 @@ Building **enterprise-grade real-time platforms**, emphasizing:
 
 ---
 
-✨ _Building real-time video experiences that stay fast, stable, and visually polished._
+✨ _Making real-time systems boringly reliable — not just WebRTC._
